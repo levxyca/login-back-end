@@ -2,24 +2,22 @@
 
 API para o teste de desenvolvedor Axioner!
 
-    Este projeto foi criado com o objetivo de testar as habilidade técnicas, capacidades de aprendizado
-    e como um candidato a Axioner lida com os desafios propostos!
+    Este projeto foi criado com o objetivo de testar as habilidade técnicas, capacidades de aprendizado e como um candidato a Axioner lida com os desafios propostos!
 
-    Queremos que você clone este projeto, rode ele localmente e se comunique com a API para coletar os
-    dados e compor as páginas.
+    Queremos que você clone este projeto, rode ele localmente e se comunique com a API para coletar os dados e compor as páginas.
 
 Tá, mas como usar a API? Como ela foi feita? E o banco de dados?
 
-    Como citamos no arquivo que mandamos com o teste, a API foi desenvolvida em Node.Js utilizando o
-    Parse-server, por isso a tarefa de criar um usuário e realizar login ficará mais fácil!
-    Dê uma olhada na documentação do Parse-server e no que dizem nos fórums de dúvida por ai.
+    Como citamos no arquivo que mandamos com o teste, a API foi desenvolvida em Node.Js utilizando o Strapi, por isso a tarefa de criar um usuário e realizar login ficará mais fácil!
+    Dê uma olhada na documentação do ***Strapi*** e no que dizem nos fórums de dúvida por ai.
 
-    Já que utilizamos Node, você vai precisar tê-lo instalado em sua máquina também!
+    Já que utilizamos NodeJs (>=14), você vai precisar tê-lo instalado em sua máquina também!
 
     Para executar o servidor você vai precisar:
         - abrir o terminal na pasta onde você clonou a API;
         - rodar o comando 'npm install';
-        - rodar o comando 'node app.js';
+        - rodar o comando 'npm run build';
+        - rodar o comando 'npm start';
         - se tudo deu certo, você deve ver no console as informações do servidor headless. E ai boa,
         a API está rodando na sua máquina!
 
@@ -48,12 +46,9 @@ ESPECIFICAÇÕES DE LAYOUT:
 
     Layout do protótipo para o teste: https://marvelapp.com/35gh79g
 
-    No link a seguir https://drive.google.com/file/d/11NERvxB8qAmzWLcp4hKinAf4FxvYHVpm/view?usp=sharing dentro da pasta "imgs" você encontra todos os arquivos que servirão de imagem de fundo para os cards
-    das páginas de lista. Encontra também uma pasta nomeada "assets" e essa você deve copiar para o seu
-    projeto do front para ter a imagem de fundo que usamos no layout e alguns ícones também.
+    No link a seguir https://drive.google.com/file/d/11NERvxB8qAmzWLcp4hKinAf4FxvYHVpm/view?usp=sharing dentro da pasta "imgs" você encontra todos os arquivos que servirão de imagem de fundo para os cards das páginas de lista. Encontra também uma pasta nomeada "assets" e essa você deve copiar para o seu projeto do front para ter a imagem de fundo que usamos no layout e alguns ícones também.
 
-
-
+    Seria interessante a ordenação crescente e decrescente dos dados de cada Collection no Front-end. Mas isto fica a seu encargo.
 
     Os códigos em hexa das cores que usamos no layout:
         #4A4A4A
