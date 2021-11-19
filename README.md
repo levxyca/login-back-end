@@ -48,10 +48,9 @@ Tá, mas como usar a API? Como ela foi feita? E o banco de dados?
 
 ESPECIFICAÇÕES DE LAYOUT:
 
-    Layout do protótipo para o teste: **https://marvelapp.com/35gh79g**
+    Layout do protótipo para o teste: https://marvelapp.com/35gh79g
     
-    No link a seguir https://drive.google.com/file/d/11NERvxB8qAmzWLcp4hKinAf4FxvYHVpm/view?
-    usp=sharing dentro da pasta "imgs" você encontra todos os arquivos que servirão de imagem de
+    No link a seguir https://bit.ly/3oIQyCC dentro da pasta "imgs" você encontra todos os arquivos que servirão de imagem de
     fundo para os cards das páginas de lista. Encontra também uma pasta nomeada "assets" e essa você
     deve copiar para o seu projeto do front para ter a imagem de fundo que usamos no layout e alguns
     ícones também.
