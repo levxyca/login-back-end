@@ -28,8 +28,8 @@ Na API deverá configurar as Collections para que sejam a representação dos da
 Os objetos estarão no formato:
 ```json
 {
-  name: "",
-  link: ""
+  "name": "",
+  "link": ""
 }
 ```
 
