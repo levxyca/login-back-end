@@ -44,7 +44,7 @@ Tá, mas como usar a API? Como ela foi feita? E o banco de dados?
         senha: Axioner123
 
     Se você travar, lembre-se que outras pessoas já passaram pelo mesmo problema que você, deve ter
-    algo la nos fóruns/stackoverflow que te ajude a resolver a treta, não desista! You can do this!
+    algo lá nos fóruns/stackoverflow que te ajude a resolver a treta, não desista! You can do this!
 
 ESPECIFICAÇÕES DE LAYOUT:
 
