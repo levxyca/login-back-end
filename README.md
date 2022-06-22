@@ -1,8 +1,8 @@
 # Desafio técnico Axion
 
-## API para o teste de desenvolvedor Axioner!
+## API para o teste de pessoas desenvolvedoras!
 
-Este projeto foi criado com o objetivo de testar as habilidade técnicas, capacidades de aprendizado e como um candidato a axioner lida com os desafios propostos!
+Este projeto foi criado com o objetivo de testar as habilidade técnicas, capacidades de aprendizado e como um candidato(a) a desenvolvedor(a) lida com os desafios propostos!
 
 Queremos que você clone este projeto, rode ele localmente e se comunique com a API para coletar os dados e compor as páginas.
 
